@@ -1,5 +1,6 @@
 #!/home/kyh12/anaconda3/bin/python3
 # SPDX-FileCopyrightText: 2025 jumakonana
+# SPDX-License-Identifer: BSD-3-Clause
 import sys
 
 　   #スライドの関係で1行だけど、本来、関数の前後は2行空白をあける                
