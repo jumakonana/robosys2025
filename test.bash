@@ -9,6 +9,7 @@ ng () {
 }
 
 
+
 res=0
 
 out=$(seq 5 | ./plus)
